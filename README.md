@@ -1,4 +1,7 @@
 # SoftwareSecurity
+
+In this project, we developed a library to prevent N-order SQL-Injection attacks. This library provides a layer of functions (API) for the application programmer to make sure that the query passed to the database cannot be changed by the user input.
+
 —————————————————————————————————————
 
 Read me for sql_inj_prevent_lib.php
